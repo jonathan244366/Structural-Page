@@ -1,6 +1,50 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <meta charset="utf-8">
-  
-  
+<header>
+  <h1>site Title</h1>
+  <nav>
+    <ul>
+    <li>Link 1</li>
+    <li>Link 2</li>
+    <li>Link 3</li>
+    </il>
+   </nav>
+   </header>
+   <main>
+   <section>
+      <article>
+   
+   <header>
+   <h2>Some Article Title Here</h2>
+   <p>By Brian Haferkamp</p>
+   </header>
+    <article>
+    <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.Autvoluptates,assumenda illum id, eumquaerat? Numquam/et odit illo nois</P>
+   <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.Autvoluptates,assumenda illum id, eumquaerat? Numquam/et odit illo nois</P>
+   <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.Autvoluptates,assumenda illum id, eumquaerat? Numquam/et odit illo nois</P>
+   <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit.Autvoluptates,assumenda illum id, eumquaerat? Numquam/et odit illo nois</P>
+   </article>
+   
+   </article>
+    
+   
+   <aside>
+   <header>
+   <h3>sidebar</h3>
+   </header>
+    <nav>
+        <ul>
+        <li>Link 1</li>
+        <li>Link 2</li>
+        <li>Link 3</li>
+        </ul>
+        </nav>
+   </aside>
+   </section>
+   
+</main>
+
+
+<footers>
+
+ <small>&copy; 2017 highway web consulting</small>
+
+</footer>
